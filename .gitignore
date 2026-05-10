@@ -1,6 +1,0 @@
-venv
-.gitignore
-*.log
-*.tmp
-.DS_Store
-.idea/
