@@ -1,5 +1,5 @@
 venv
-archive.zip
+.gitignore
 *.log
 *.tmp
 .DS_Store
