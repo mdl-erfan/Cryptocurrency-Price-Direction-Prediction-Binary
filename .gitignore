@@ -1,0 +1,6 @@
+venv
+archive.zip
+*.log
+*.tmp
+.DS_Store
+.idea/
